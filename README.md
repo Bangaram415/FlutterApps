@@ -1,4 +1,4 @@
-# firstflutterapp
+# FirstFlutterApp
 
 My First Flutter application.
 
