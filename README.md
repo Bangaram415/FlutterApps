@@ -9,6 +9,6 @@ My First Flutter application.
 - It Also has a App Icon.
 
 # Display Mode
-<img src="images/00.png" width="70" height="50">
-<img src="images/01.png" width="70" height="50">
+<img src="images/00.png" width="130" height="100">
+<img src="images/01.png" width="130" height="100">
   
